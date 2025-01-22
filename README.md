@@ -1,4 +1,6 @@
-[An Introduction to Statistical Learning](https://www.statlearning.com/)
+# [An Introduction to Statistical Learning](https://www.statlearning.com/)
+
+# Notes from ISLP
 
 ## Reducible and Irreducible error in estimating f
 <b> Reducible error (сокращаемая ошибка) - </b> ошибка, которую можно уменьшить или устранить с помощью выбора более подходящей модели или улучшения метода обучения. <br>
